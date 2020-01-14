@@ -18,7 +18,7 @@ import (
 	"time"
 
   // if using go modules
-  "github.com/caarlos0/env/v6"
+  "github.com/syronz/env/v6"
 
   // if using dep/others
   "github.com/caarlos0/env"
